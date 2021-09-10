@@ -1,5 +1,5 @@
 <? 
 
-include_once("index.html","inner-page.html","portfolio-details.html");
+include_once("index.html");
 
 ?>
